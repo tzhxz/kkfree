@@ -1,0 +1,17 @@
+{
+    "name": "kkfreegame.com PWA",
+    "short_name": "kkfreegame.com",
+    "description": "kkfreegame.com as a leading online games publisher on web and mobile platform, loves showcasing quality games and working with developers from all around the world.",
+    "display": "fullscreen",
+    "start_url": "/m/index.html?from=pwa",
+    "scope": "/m/home",
+    "theme_color": "#313131",
+    "background_color": "#313131",
+    "icons": [
+    {
+      "src": "https://www.kkfreegame.com/img/192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+    ]
+}

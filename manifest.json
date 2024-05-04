@@ -1,15 +1,15 @@
 {
-    "name": "kyfungo PWA",
-    "short_name": "kyfungo",
-    "description": "kyfungo as a leading online games publisher on web and mobile platform, loves showcasing quality games and working with developers from all around the world.",
+    "name": "kkfreegame.com PWA",
+    "short_name": "kkfreegame.com",
+    "description": "kkfreegame.com as a leading online games publisher on web and mobile platform, loves showcasing quality games and working with developers from all around the world.",
     "display": "fullscreen",
-    "start_url": "/home?from=pwa",
-    "scope": "/home",
+    "start_url": "/index.html?from=pwa",
+    "scope": "/index",
     "theme_color": "#313131",
     "background_color": "#313131",
     "icons": [
     {
-      "src": "https://www.topgamesoffline.com/icon/192.png",
+      "src": "https://www.kkfreegame.com/img/192.png",
       "type": "image/png",
       "sizes": "192x192"
     }
