@@ -1,0 +1,20 @@
+{
+  "name": "Love Adventure",
+  "short_name": "Love Adventure",
+  "icons": [
+    {
+      "src": "https://www.topgamesoffline.com/storage/games/icon/c36acf01b1d4963d26275996da3ce4a8.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/g/Color-Run",
+  "scope": "/g/Color-Run",
+  "background_color": "#6937bb",
+  "display": "fullscreen",
+  "theme_color": "#3c1e66",
+  "categories": [
+    "games",
+    "entertainment"
+  ]
+}

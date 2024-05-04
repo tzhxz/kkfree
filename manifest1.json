@@ -1,0 +1,17 @@
+{
+    "name": "kyfungo PWA",
+    "short_name": "kyfungo",
+    "description": "kyfungo as a leading online games publisher on web and mobile platform, loves showcasing quality games and working with developers from all around the world.",
+    "display": "fullscreen",
+    "start_url": "/home",
+    "scope": "/home",
+    "theme_color": "#313131",
+    "background_color": "#313131",
+    "icons": [
+        {
+            "src": "https://www.topgamesoffline.com/icon/192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ]
+}
